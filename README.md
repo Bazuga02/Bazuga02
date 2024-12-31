@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazuga02&label=Profile%20views&color=0e75b6&style=flat" alt="bazuga02" /> </p>
 
+-Check out my work during my SDE internship at Allo Health on GitHub: https://github.com/abhirai1802
+
 - 🔭 I’m currently working on [Book Heaven](https://6675aec6813260b681471245--cheerful-crisp-1efc76.netlify.app/)
 
 - 🌱 I’m currently learning **Mongodb , Reactjs, Redux**
